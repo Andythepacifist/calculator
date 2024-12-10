@@ -1,0 +1,16 @@
+C:\Users\dewde\source\repos\Midterm project\Midterm project\bin\Debug\net8.0-windows\Midterm project.exe
+C:\Users\dewde\source\repos\Midterm project\Midterm project\bin\Debug\net8.0-windows\Midterm project.deps.json
+C:\Users\dewde\source\repos\Midterm project\Midterm project\bin\Debug\net8.0-windows\Midterm project.runtimeconfig.json
+C:\Users\dewde\source\repos\Midterm project\Midterm project\bin\Debug\net8.0-windows\Midterm project.dll
+C:\Users\dewde\source\repos\Midterm project\Midterm project\bin\Debug\net8.0-windows\Midterm project.pdb
+C:\Users\dewde\source\repos\Midterm project\Midterm project\obj\Debug\net8.0-windows\Midterm_project.Form1.resources
+C:\Users\dewde\source\repos\Midterm project\Midterm project\obj\Debug\net8.0-windows\Midterm project.vbproj.GenerateResource.cache
+C:\Users\dewde\source\repos\Midterm project\Midterm project\obj\Debug\net8.0-windows\Midterm project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dewde\source\repos\Midterm project\Midterm project\obj\Debug\net8.0-windows\Midterm project.AssemblyInfoInputs.cache
+C:\Users\dewde\source\repos\Midterm project\Midterm project\obj\Debug\net8.0-windows\Midterm project.AssemblyInfo.vb
+C:\Users\dewde\source\repos\Midterm project\Midterm project\obj\Debug\net8.0-windows\Midterm project.vbproj.CoreCompileInputs.cache
+C:\Users\dewde\source\repos\Midterm project\Midterm project\obj\Debug\net8.0-windows\Midterm project.dll
+C:\Users\dewde\source\repos\Midterm project\Midterm project\obj\Debug\net8.0-windows\refint\Midterm project.dll
+C:\Users\dewde\source\repos\Midterm project\Midterm project\obj\Debug\net8.0-windows\Midterm project.pdb
+C:\Users\dewde\source\repos\Midterm project\Midterm project\obj\Debug\net8.0-windows\Midterm project.genruntimeconfig.cache
+C:\Users\dewde\source\repos\Midterm project\Midterm project\obj\Debug\net8.0-windows\ref\Midterm project.dll
